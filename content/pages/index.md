@@ -186,7 +186,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Fundación Cultura Tradiciones del Magdalena
+  title: Fundación Cultura y Tradiciones del Magdalena
   description: Fundación Cultura y Tradiciones del Magdalena
   extra:
     - name: 'og:type'
