@@ -199,7 +199,8 @@ seo:
       value: The preview of the Podcaster theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: >-
+        /_static/app-assets/images/Logo_Funcultradimag_-_Hecho_con_PosterMyWall__1_-removebg-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
