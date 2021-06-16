@@ -187,7 +187,7 @@ sections:
     background_image_opacity: 98
 seo:
   title: Stackbit Podcaster Theme
-  description: The preview of the Podcaster theme
+  description: Fundación Cultura y Tradiciones del Magdalena
   extra:
     - name: 'og:type'
       value: website
