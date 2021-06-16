@@ -196,7 +196,7 @@ seo:
       value: '@Funcultradimag'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: Fundación Cultura y Tradiciones del Magdalena
       keyName: property
     - name: 'og:image'
       value: >-
