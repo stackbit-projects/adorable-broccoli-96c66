@@ -34,7 +34,8 @@
                 "url": "/subscribe",
                 "style": "primary"
             }
-        ]
+        ],
+        "title": "FUNC"
     },
     "footer": {
         "logo": "images/logo.svg",
